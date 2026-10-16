@@ -1,5 +1,5 @@
 # Two-Player Webcam-Controlled Robots
-
+![Two-Player Robot Control](two_player_robot.png)
 A real-time robotics project that lets two players control separate differential-drive robots in a Gazebo simulation using hand gestures detected by a webcam.
 
 ## Features
